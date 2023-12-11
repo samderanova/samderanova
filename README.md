@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=samderanova)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=samderanova&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
